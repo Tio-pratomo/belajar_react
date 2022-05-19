@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# Latihan React JS Lewat Youtube M Fikri
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##Pendahuluan
 
-## Available Scripts
+Ini merupakan latihan React JS dasar dimana pada project ini, kita menampilkan barang, dan harga.
 
-In the project directory, you can run:
+Nah, barang dan harga yang ditampilkan dapat dimanipulasi seperti menghapus, menambahkan barang, mengubah nama dan harganya.
 
-### `npm start`
+Project ini menggunakan JSON SERVER untuk fake API, seakan akan kita menggunakan RESTful API sehingga lebih dinamis. Pastikan anda sudah menginstallnya secara global dengan mengetikan perintah `npm install -g json-server`.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Atau jika ingin menginstallnya untuk kebutuhan development saja, gunakan perintah `npm install json-server --save-dev`. Saya menginstall JSON SERVER secara global, karena akan terus dipakai pada project-project yang lain.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Cara penggunaan
 
-### `npm test`
+1. Pastikan kalian terhubung dengan internet
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2. Lalu, clone atau download project ini untuk kebutuhan kalian
 
-### `npm run build`
+3. Kemudian, ketikan `npm install` agar dependency yang digunakan terdownload
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+4. Kalian butuh 2 terminal, yang pertama untuk menjalankan json-server, yang kedua untuk menjalankan aplikasinya secara local.
+   Ketikan `npm run-script db-start` untuk menjalankan JSON-SERVER. Kemudian pada terminal yang kedua ketikan `npm start` untuk menjalankan aplikasi pada localhost.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Penutup
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Terima kasih kepada author youtube M.Fikri yang menyediakan kontent untuk belajar pemrograman, terutama javascript dan react.
 
-### `npm run eject`
+Jika kalian ingin belajar, kalian silahkan ke channelnya :
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Youtube : https://www.youtube.com/c/mfikricom
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Jika kalian ingin clone atau download untuk belajar atau memodifikasi lagi, silahkan karena ini sifatnya untuk edukasi.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+TRIMS

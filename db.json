@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "title": "mie ayam pangsit",
+      "price": "15000",
+      "id": 5
+    },
+    {
+      "title": "indomie kari ayam",
+      "price": 3000,
+      "id": 6
+    },
+    {
+      "title": "mie sedap ayam special",
+      "price": "3000",
+      "id": 8
+    },
+    {
+      "title": "ayam broiler",
+      "price": "45000",
+      "id": 9
+    },
+    {
+      "title": "rengginang",
+      "price": "6000",
+      "id": 10
+    }
+  ]
+}
