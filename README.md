@@ -1,6 +1,6 @@
 # Latihan React JS Lewat Youtube M Fikri
 
-##Pendahuluan
+## Pendahuluan
 
 Ini merupakan latihan React JS dasar dimana pada project ini, kita menampilkan barang, dan harga.
 
